@@ -1,6 +1,6 @@
 # The Paw Programming Language
 
-...
+..
 
 # Code Example
 
